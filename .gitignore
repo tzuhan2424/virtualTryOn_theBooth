@@ -1,0 +1,15 @@
+data
+VITON-HD
+PF-AFN
+HR-VITON/checkpoints
+HR-VITON/Output
+HR-VITON/smallTest
+HR-VITON/opencv.zip
+HR-VITON/__pycache__
+HR-VITON/eval_models
+detectron2
+build
+
+.vscode
+opencv-4.x
+

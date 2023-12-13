@@ -1,0 +1,5 @@
+requests
+opencv-python
+flask==3.0.0
+setuptools==59.5.0
+
